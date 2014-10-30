@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+	<info>
+		<name>EducApp</name>
+		<version>1.1</version>
+		<logo>https://raw.githubusercontent.com/ticuth/estdat/master/images/logo.png</logo>
+	</info>
+	<newslist>
+		<news>
+			<url>https://github.com/ticuth/topicos</url>
+			<description>Tópicos selectos</description>
+			<images>
+				<image>https://raw.githubusercontent.com/ticuth/estdat/master/images/logo.png</image>
+			</images>
+		</news>
+	</newslist>
+</config>
